@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NZAVS Flourishing Study"
+  navbar:
+    pinned: true
+    left:
+      - text: "Welcome"
+        file: intro.qmd
+      - text: "The Team"
+        file: team.qmd
+      - text: "Project Description"
+        file: projectdesc.qmd
+      - text: "Reports and Publications"
+        file: reports.qmd
+      - text: "Data and code"
+        file: data-and-code.qmd        
+      - text: "Community Partners"
+        file: community-partners.qmd  
+    right:
+      - icon: github
+        href: https://github.com/usman-afzali
+    page-navigation: true
+
+format:
+  html:
+    theme: [litera, styles.scss]
+    css: styles.scss
+    highlight-style: tango
+
+editor: source
+
