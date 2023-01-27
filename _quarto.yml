@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-    theme: [litera, styles.scss]
+    theme: [united, styles.scss]
     css: styles.scss
     highlight-style: tango
 
