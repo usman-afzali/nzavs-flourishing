@@ -1,7 +1,6 @@
 ---
 title: "A National Longitudinal Study of Muslim Diversity and Flourishing"
-subtitle: "NZAVS"
-image: p_values.jpg
+image: nzvas.png
 
 about:
   template: jolla

@@ -13,15 +13,9 @@ page-layout: full
 title-block-banner: false
 ---
 
-Kia ora!
+Kia ora and welcome to the Flourishing Lab
 
-Welcome to PSYC344.
-
-{{< fa brands twitter size=1.4xl >}} UsmanAfzali | {{< fa brands linkedin size=1.4xl >}} Usman Afzali | {{< fa brands github size=1.4xl >}} usman-afzali | {{< fa browser size=1.4xl >}} usmanafzali.com
-
-------------------------------------------------------------------------
-
-## Welcome To the Flourishing Lab!
+## The Flourishing Lab
 
 ### Executive Summary of the Project
 
