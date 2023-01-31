@@ -21,7 +21,7 @@ website:
         file: community-partners.qmd  
     right:
       - icon: github
-        href: https://github.com/usman-afzali
+        href: https://github.com/usman-afzali/nzavs-flourishing
     page-navigation: true
 
 format:

@@ -2,6 +2,17 @@
 title: "A National Longitudinal Study of Muslim Diversity and Flourishing"
 image: nzvas.png
 
+author:
+  - name: Usman Afzali, PhD
+    orcid: 0000-0001-5119-9388
+    email: usman.afzali@canterbury.ac.nz
+    affiliations:
+      - name: University of Canterbury | Te Whare Wananga o Waitaha
+        address: 20 Kirkwood Ave
+        city: Chrsitchurch
+        state: Canterbury
+        postal-code: 8041
+
 about:
   template: jolla
   links:
@@ -15,8 +26,8 @@ about:
       text: Usman Afzali
       href: https://www.linkedin.com/in/usman-afzali-086147a4/
     - icon: github
-      text: usman-afzali
-      href: https://github.com/usman-afzali
+      text: nzavs-flourishing
+      href: https://github.com/usman-afzali/nzavs-flourishing
 ---
 
 By Usman Afzali, PhD
