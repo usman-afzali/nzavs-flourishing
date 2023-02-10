@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "NZAVS Flourishing Study"
+  title: "Muslim Flourishing Study"
   navbar:
     pinned: true
     left:
