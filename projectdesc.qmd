@@ -2,37 +2,384 @@
 title: "A National Longitudinal Study of Muslim Diversity and Flourishing"
 author: "Usman Afzali"
 date: "2023-01-12"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## The Project Description
 
-We propose a novel longitudinal study of Muslims in New Zealand. The proposed study
-will build on the existing capacity of the New Zealand Attitudes and Values Study
-(NZAVS) infrastructure and will add N = 1500 Muslim participants to its longitudinal sample.
+We propose a novel longitudinal study of Muslims in New Zealand. The
+proposed study will build on the existing capacity of the New Zealand
+Attitudes and Values Study (NZAVS) infrastructure and will add N = 1500
+Muslim participants to its longitudinal sample.
 
-The purpose of our project is to develop a first-class longitudinal science of Muslim
-religious diversity in New Zealand that is capable of changing conversations about
-religion. The challenge to such a conversation-changing science can be expressed
-simply: data about Muslim flourishing are lacking. This application describes our step-by-step plan for longitudinal data collection from across New Zealand’s diverse Muslim
-community. Before describing our plan for data collection, we must first describe our
-partnership with the NZAVS. This background will help to clarify the motivation, interest,
-and prospects for success of our proposed longitudinal study of Muslim flourishing in
-New Zealand.
+The purpose of our project is to develop a first-class longitudinal
+science of Muslim religious diversity in New Zealand that is capable of
+changing conversations about religion. The challenge to such a
+conversation-changing science can be expressed simply: data about Muslim
+flourishing are lacking. This application describes our step-by-step
+plan for longitudinal data collection from across New Zealand's diverse
+Muslim community. Before describing our plan for data collection, we
+must first describe our partnership with the NZAVS. This background will
+help to clarify the motivation, interest, and prospects for success of
+our proposed longitudinal study of Muslim flourishing in New Zealand.
 
-The New Zealand Attitudes and Values Study (NZAVS) is a national longitudinal
-probability study that has been collecting data on New Zealanders’ health, personality,
-relationships, employment, behaviors, values, beliefs, and community-making annually
-since 2009.
+The New Zealand Attitudes and Values Study (NZAVS) is a national
+longitudinal probability study that has been collecting data on New
+Zealanders' health, personality, relationships, employment, behaviors,
+values, beliefs, and community-making annually since 2009.
 
 Because the same individuals are measured each year, NZAVS data enable
-researchers to evaluate causal theories about what makes life good for people and
-how the good life varies across demographically diverse populations. The NZAVS is notable for having a large sample (currently about 1% of New Zealand’s adult population, which was recruited randomly). The NZAVS also has a very good annual retention rate of about 80%, which is made possible by the access that qualified researchers in New Zealand have to the government's electoral roll. Without a capacity for following people as they move and change contact details, retention would be very difficult. The NZAVS questionnaire is made available in both print and online formats (1), which further increases the reach of the study into communities that are not familiar with internet technologies. In 2018, 42 new items were added to the NZAVS questionnaire to investigate the causal interplay of humility, gratitude, forgiveness, generosity, and multi-dimensional human flourishing. These items enable researchers to systematically investigate how these virtues are affected by community-making, how community-making affects these virtues, whether the interplay of community-making and virtue affects dimensions of human flourishing, and if so, which are specifically affected. As mentioned, the present project offers an exciting opportunity to extend the NZAVS longitudinal study of human flourishing to the Muslim community in New Zealand, where response rates are ten-fold times lower than they are for other major religious groups. The under-representation of Muslims, then, is the critical challenge to the longitudinal study of Muslim flourishing in New Zealand. Our study will address this mission-critical challenge by collecting new data from across a nationally diverse Muslim community and recruiting participants into the NZAVS.
+researchers to evaluate causal theories about what makes life good for
+people and how the good life varies across demographically diverse
+populations. The NZAVS is notable for having a large sample (currently
+about 1% of New Zealand's adult population, which was recruited
+randomly). The NZAVS also has a very good annual retention rate of about
+80%, which is made possible by the access that qualified researchers in
+New Zealand have to the government's electoral roll. Without a capacity
+for following people as they move and change contact details, retention
+would be very difficult. The NZAVS questionnaire is made available in
+both print and online formats (1), which further increases the reach of
+the study into communities that are not familiar with internet
+technologies. In 2018, 42 new items were added to the NZAVS
+questionnaire to investigate the causal interplay of humility,
+gratitude, forgiveness, generosity, and multi-dimensional human
+flourishing. These items enable researchers to systematically
+investigate how these virtues are affected by community-making, how
+community-making affects these virtues, whether the interplay of
+community-making and virtue affects dimensions of human flourishing, and
+if so, which are specifically affected. As mentioned, the present
+project offers an exciting opportunity to extend the NZAVS longitudinal
+study of human flourishing to the Muslim community in New Zealand, where
+response rates are ten-fold times lower than they are for other major
+religious groups. The under-representation of Muslims, then, is the
+critical challenge to the longitudinal study of Muslim flourishing in
+New Zealand. Our study will address this mission-critical challenge by
+collecting new data from across a nationally diverse Muslim community
+and recruiting participants into the NZAVS.
 
-The present project offers an exciting opportunity to extend the NZAVS longitudinal
-study of human flourishing study to the Muslim community in New Zealand.
+The present project offers an exciting opportunity to extend the NZAVS
+longitudinal study of human flourishing study to the Muslim community in
+New Zealand.
 
-The fact, that our study is leveraging NZAVS capacity, makes it a low-cost/low-risk/high-yield investment in the science of human flourishing. The NZAVS has many dozens of
-collaborators from within New Zealand and across the world, who have collectively
-published over 150 scientific articles. The NZAVS has developed effective relationships
-with churches, mosques, community leaders, minority communities, business leaders,
-and the government. Further information regarding NZAVS can be found online (2).
+The fact, that our study is leveraging NZAVS capacity, makes it a
+low-cost/low-risk/high-yield investment in the science of human
+flourishing. The NZAVS has many dozens of collaborators from within New
+Zealand and across the world, who have collectively published over 150
+scientific articles. The NZAVS has developed effective relationships
+with churches, mosques, community leaders, minority communities,
+business leaders, and the government. Further information regarding
+NZAVS can be found online (2).
+
+### What are the barriers to the longitudinal science of Muslim flourishing in New Zealand?
+
+Our discussions with the Muslim community suggest three major obstacles
+to Muslim involvement in longitudinal survey research: 1) a lack of
+awareness about benefits of longitudinal flourishing science for the
+Muslim community; 2) a general mistrust of institutions; 3) language
+barriers.
+
+[*In short,*]{.underline} our project will address these three problems
+by engaging in community outreach, education, and questionnaire
+translation. These activities will put the longitudinal study of
+spirituality for Muslims on an equal footing with other religious and
+secular communities in New Zealand. Additionally, the project
+researchers have fostered support from Muslim community leaders based on
+trusting relationships. Such support and relationships are critical for
+any successful science of Muslim flourishing. Our plan is not merely to
+collect data, but also to make good on our trusting relationships by
+sharing our science with the Muslim community, and by engaging the
+Muslim community as partners in our science.
+
+[*In detail:*]{.underline}
+
+During the past five months we have initiated a consultation plan with
+members of New Zealand Muslim community. Specifically, we have conducted
+semi-structured interviews/discussions with 29 Muslims, including
+community leaders, religious scholars, youth activists, and everyday
+Muslims from across New Zealand. This Advisory Group includes different
+age groups, and males and females from Christchurch, Wellington, and
+Auckland, New Zealand's three largest cities. There have been four
+objectives: 1) To assess the feasibility of the project for Muslims, 2)
+To assess interest of Muslims in the project, 3) To get feedback on the
+survey items (Please see the attached NZAVS technical details document
+in TRT-2022-30579-Response-to-Bounce-Memo), and 4) To inquire if
+translation may be needed. Through all these efforts, we are happy to
+report that the community response has been positive in three ways:
+First, all 29 respondents believed that the study was feasible for
+Muslims and that Muslims will be interested to participate. In addition,
+the highest participation should be anticipated from youth, second
+generation migrants, educated, and women. Second, not only did this
+Advisory Group believe that the study and our planned measures were
+important, they have also promised to support us in every possible way.
+Third, there has been a consensus that a majority of participants will
+be able to use the English version. Nevertheless, to reach a broader
+bandwidth of Muslim diversity, we will need to pilot and test translated
+versions of the NZAVS flourishing scales and survey.
+
+### The Muslim community in New Zealand faces adversity but is resilient
+
+Before describing this plan, it may be helpful to describe some
+additional context about the Muslim community in New Zealand and our
+previous research on Muslims in New Zealand. In our previous research,
+investigating attitudes towards Muslims and minorities, we found that
+Muslims are among the least accepted groups in New Zealand (3, 4).
+Recently, the community suffered White supremacist terrorist attacks on
+two mosques which killed 51 people. Despite these challenges, our
+qualitative research indicates that many Muslims in New Zealand are
+flourishing. To systematically identify the factors that enable Muslim
+flourishing, however, requires data. The first motivation for this study
+is to collect such data so that the many untold stories of Muslim
+flourishing may be recorded and understood. By contrast, without such
+data, the NZAVS will be limited to investigating how Muslims in New
+Zealand are perceived (3, 4, 5, 6, 7). To this end, we have developed a
+plan that will recruit N = 1500 Muslims into the New Zealand Attitudes
+and Values Study.
+
+#### The project goals
+
+We want to recruit N = 1500 Muslims to participate in NZAVS for three
+years, train a next generation longitudinal researchers, publish
+excellent scientific articles, and enhance the study's community impact
+through collaborative scholarly network and public service community
+group.
+
+**The first goal** of this project is to recruit New Zealand Muslims for participating in NZAVS for three years, resulting in
+3 waves of panel data. In addition to the current NZAVS data, achieving
+this goal will result in a novel, powerful dataset for investigating the
+personal and social aspects of Muslim flourishing in New Zealand. The
+bottom line in any science is high-quality data measured purposefully
+and accurately for specific questions. The Templeton Religion Trust
+(TRT)'s primary mission is to promote an outstanding science of religion
+and its consequences. Our first project objective, to conserve and
+extend longitudinal data collection to the Muslim community, aligns
+directly with this basic TRT purpose.
+
+**The second goal** of this project is to continue publishing
+high-quality scientific research, which has yielded more than 150
+TRT/TWCF (Templeton World Charity Foundation) funded publications since
+2013. We estimate that the project will produce 6 scientific
+publications. Moreover, with over a decade's worth of longitudinal data
+collected, the NZAVS team is poised to make important contributions to
+science. The team's expected scientific productivity over the course of
+our project will promote TRT's core mission of fostering excellence for
+religion and spirituality science.
+
+**The third goal** is to support an early career post-doctoral
+researcher. Usman Afzali will be recruited as a post-doctoral researcher
+who will lead this project along with Prof Joseph Bulbulia and would
+train and manage research assistants to collect data. Usman will also be
+involved in grant-writing. Doing science with an early career researcher
+will help him to secure tenure-track appointment, and tenure -- all
+fundamental priorities for the advancement of a longitudinal science of
+religion and spirituality over the long haul.
+
+**The fourth goal** is to bring the Muslim community closer to NZAVS and
+science. As a result of community talks and the use of NZAVS data in
+government policy, one of the religious groups in New Zealand (i.e.,
+Muslims) will come to see how science and religion jointly play a
+critical role in understanding human flourishing.
+
+Although extensive data are lacking in relation to virtues and attitudes
+in Muslim community, we expect that Muslims will exhibit similar levels
+of flourishing as members of highly identified non-Muslim denominations,
+and perhaps somewhat greater levels of flourishing than weakly
+identified or secular minority migrants. NZAVS data show that perceived
+religious discrimination is declining only among people with lower
+levels of religious identification (see Appendix A). Among those with
+higher levels of religious identification, perceived religious
+discrimination remains high. We expect Muslims to exhibit perceived
+religious discrimination at levels comparable to highly religious
+non-Muslims. Indeed, this is what the NZAVS observes in its current,
+small Muslim sample (Appendix B). The NZAVS also finds that Muslims
+perceive religion to be a social good, at levels similar to smaller
+Christian denominations (Appendix C). We expect this study to clarify
+the grounds of these judgments.
+
+#### Hypotheses
+
+Being built on the foundations of NZAVS, the questions that can be
+answered by the proposed project can be limitless, and we can suggest a
+large number of hypotheses to be tested from these data in the years to
+come. However, we will be trying to test the following hypotheses
+immediately -- within the span of the proposed project:
+
+*Hypothesis 1:* Muslims with the strongest ties to their community as
+measured by service attendance and prayer are buffered most from
+anti-Muslim prejudice.
+
+*Hypothesis 2:* Muslims experience greater challenges to employment and
+health than matched members of other religious groups.
+
+*Hypothesis 3:* Subjective well-being, the meaning of life, and
+psychological distress are similar among Muslims and matched members of
+religious groups from the buffering of religious community-making.
+
+#### Methodology 
+
+*Participants:* N = 1,500 members of the Muslims communities in New
+Zealand (50% female), belonging to various ethnic groups (Middle
+Eastern, African, South-Asian, etc.), from three large cities (Auckland,
+Christchurch, and Wellington), aged 18 and above.
+
+*Measures:* The NZAVS questionnaire will be translated to seven
+languages proposed by the Muslim community. These are: Arabic, Persian,
+Pashto, Somali, Urdu, Bangla, and Turkish. Based on the level of English
+comprehension, the participants will have the choice to use either the
+English version or the translated version. The NZAVS questionnaire items
+and further details can be accessed via this url:
+https://go-bayes.github.io/reports/posts/nzavs/#link-to-data-dictionary-and-questions
+
+*Translation:* Our consultation with the Advisory Group shows that the
+translation may only be needed for a small number of Muslims living in
+New Zealand, and that a majority will be able to use the English
+version. This gives us a methodological safety-net since we can be more
+confident that the meaning of concepts is not distorted because of
+translation. As far as the translation itself is concerned, we have
+consulted with a group (Sulaiman-Hill and colleagues) who have been
+conducting research within the Muslim community. Therefore, instead of
+using the common translation back-translation procedure, we will use a
+more effective way of translating, back-translating, and comparing notes
+to ensure conceptual equivalence (8). This method is inspired by the
+recent developments and recommendations based on the needs in countries
+that home an increasing number of refugees (9, 10). Following this, the
+translation will be checked by experts as recommend by Fenn and
+colleagues (11) and piloted within the Advisory Group to ensure
+reliability and conceptual equivalence.
+
+*Procedure* *(data collection):* We will achieve our goal of data
+collection by reaching out to the many community organizations.
+Specifically, the lead PI (Usman Afzali) has already consulted with and
+gained support for this initiative through the following community
+organizations:
+
+-   The Federation of Islamic Associations of New Zealand
+-   Muslim Association of Canterbury
+-   Linwood Islamic Trust
+-   Canterbury Muslim
+Community Trust • Islamic Women's Council New Zealand (IWCNZ) • PANZ:
+Pakistan Association of New Zealand• Purapura Whetu Trust Muslim
+Wellbeing Team • FAIR (Foundation Against Islamophobia and Racism) • New
+Zealand Muslim Association • Wellington Islamic Centre -- IMAN Purapura
+Whetu Trust Muslim Wellbeing Team • FAIR (Foundation Against
+Islamophobia and Racism) • New Zealand Muslim Association • Wellington
+Islamic Centre -- IMAN
+
+We will further consult with the community leadership and translate the
+questionnaires. Following this, we will recruit 10 paid research
+assistants (RAs) from the Muslim community to assist with data
+collection, and we will pilot the questionnaires and translations. With
+the help from the mentioned organizations, we will then deliver three
+inaugural talks in the three largest cities of New Zealand (Auckland,
+Christchurch, and Wellington), followed by data collection from N =
+1,500 participants. The temporal gap between Wave 1 and Wave 2 will be
+used to write a method article and two science papers. We will collect
+Wave 2 in the second year followed by three community talks in three
+large cities (Auckland, Christchurch, and Wellington) based on our
+findings. After Wave 3, we will work on mechanisms to ensure continuous
+participation from the Muslim community within the NZAVS framework.
+During the third year, we will also submit three papers for publication
+and deliver a government seminar to inform the authorities and policy
+makers within the Ministry for Ethnic Communities, Ministry of Social
+Development and Department of Prime Minister and the Cabinet of our
+findings. The NZAVS laboratory, led by Chris Sibley, has an established
+record of excellence in longitudinal data collection, built over 13
+years of experience. Such a record demonstrates the low risk of this
+proposal. Publications We are aiming to publish six articles, as
+below: 1. A method article on translation, recruitment, and longitudinal
+design 2. A cross sectional paper on Muslim diversity 3. Four papers on
+different aspects of Muslims lives in the light of proposed hypotheses.
+The hypotheses will be pre-registered on open-science portals, and we
+aim to register our articles in the form of registered reports in
+prestigious open-science scientific journals. The University of
+Canterbury facilitates open-science publication for all affiliated
+researchers. We will use the same avenues for these publications. We
+will achieve our publication targets by publishing with existing
+collaborators and new collaborators. The data will be made available for
+the use of other researchers in the light of NZAVS policies and
+standards. Again, with the NZAVS' strong record of publications, the
+current project will meet our expected research output targets. NZAVS
+has been publishing open access articles (e.g., 4, 5, 12). However, due
+to ethical concerns, we do not make the raw data available on
+open-science platforms. At instances, we do provide the data analysis
+code for the benefit of those interested: see
+https://github.com/go-bayes/attacks Extending our collaborative network
+We will extend the NZAVS collaborative network by: • collaborating and
+building partnership with international researchers and experts who
+focus on understanding religious minority communities worldwide. •
+facilitating for the wider NZAVS researcher community to draw insights
+regarding Muslims' health, personality, relationships, employment,
+behaviors, values, beliefs, community-making, etc. We will seek to
+maintain these collaborative relationships. In this way, we will enable
+an organic growth of capacity for longitudinal research in Muslim
+flourishing, while at the same time training early career scientists in
+longitudinal approaches. Target audience We will promote the
+longitudinal science of religion, virtue, and community-making for
+public benefit through: • three inaugural talks for public • three
+follow-up community talks to the public • meetings with the leaders of
+community organizations (listed above) These enhance our community
+partnership. We will also host a seminar to the government organizations
+that will strengthen our collaborative network with government
+organizations and policymakers. Last, but not least, the wider
+scientific community will be our target audience too. The evidence for
+project success The NZAVS is on track to complete 13 years of data
+collection, has published over 150 scientific articles, and has extended
+the research network to over 50 domestic and international
+collaborators. We have effectively translated longitudinal research on
+spirituality and human flourishing to the New Zealand government,
+national church and business leaders, and continue to regularly convey
+our findings to communities through public talks and outreach. For
+evidence of our impact see:
+https://www.dropbox.com/s/5zj3o8nggkd0qh6/Sup3-Meetings-Talks-TRT2021.html?dl=0
+We are committed to promoting excellence for the longitudinal study of
+religion and spirituality by helping emerging researchers and advising
+teams in other countries. Our study has hardly scratched the surface of
+possibility for panel studies. We are keen to help other research groups
+develop panel studies of religion. To advance the science of religion, a
+library full of owl-sketches await to be drafted. A good argument for
+our present project is that we have already demonstrated we can do the
+highly demanding work of building and retaining a large and diverse
+longitudinal sample, and that we have the know-how to promote the
+success of future generation of researchers. Timeline Months 1-3 •
+Consult with Muslim community leadership. • Translate surveys in ethnic
+languages as determined by community needs. Months 4-6 • Hire and train
+RAs for booster support in Auckland, Wellington, and Christchurch (New
+Zealand's largest cities). • Extensively pilot the survey and
+translations. • Pre-register research on open-science platforms Months
+6-12 • Deliver inaugural talks in Auckland, Wellington, and Christchurch
+within public venues. Usman will speak to cover the history of NZAVS,
+the importance of flourishing, and what it would take for people to
+participate. Other speakers TBC. • Administer the Muslim booster (N =
+1500). • Integrate responses within the broader NZAVS sample. Months
+13-17 • Draft methods article on translation, recruitment, and
+longitudinal design. • Draft descriptive articles on Muslim diversity
+(cross-sectional papers). Months 18-24 • Submit articles. • Administer
+second Muslim booster with RA support focused on participant retention.
+Months 24-36 • Deliver community talks based on findings so far, in
+Auckland, Wellington, and Christchurch, within public venues. Usman will
+speak to cover findings and share insights from descriptive studies.
+Other speakers TBC. • Administer 3rd wave of booster. • Work with Muslim
+community to sustain support through future (unfunded) waves. • RAs to
+work with individuals and families on retention needs beyond project, to
+be supported within ongoing NZAVS infrastructure. • Prepare draft of
+two-wave longitudinal Muslim research articles (pre/post exposure),
+submitted by project close. • Deliver a government seminar (Ministry for
+Ethnic Communities, Ministry of Social Development, Department of the
+Prime Minister and Cabinet) Risks 1. We cannot ensure participation. 2.
+New Zealand's Muslim community is culturally and linguistically diverse;
+although we have substantially consulted with them, all their needs
+cannot be fully anticipated in advance. 3. Effectiveness of retention
+strategies beyond the life of project is presently unclear. How are
+risks mitigated? 1. initial community support is very positive. 2.
+methods paper will document both failed and successful recruitment
+strategies. 3. project has scope to translate the survey into at least 7
+languages. Overall, we perceive a much greater risk from the certain
+loss of understanding that will arise from inaction, as well as the lost
+opportunities to cultivate an interest in science among New Zealand's
+Muslim communities. Cost effectiveness of the Muslim booster Assuming
+1/2 project resources are required for recruitment/retention and 3660
+responses over 3 waves, cost is \$62 per response. This is inclusive of
+translation, data entry, recruitment, and retention. Efficiency
+increases over time: if Muslims participate in NZAVS after project
+closure, that will not cost us any further.
