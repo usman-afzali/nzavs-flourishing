@@ -1,7 +1,6 @@
 ---
 title: "A National Longitudinal Study of Muslim Diversity and Flourishing"
-image: nzvas.png
-
+image: 3.jpg
 author:
   - name: Usman Afzali, PhD
     orcid: 0000-0001-5119-9388
@@ -16,18 +15,13 @@ author:
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: UsmanAfzali
-      href: https://twitter.com/UsmanAfzali
-    - icon: link
-      text: Usman Afzali
-      href: https://www.usmanafzali.com  
-    - icon: linkedin
-      text: Usman Afzali
-      href: https://www.linkedin.com/in/usman-afzali-086147a4/
     - icon: github
-      text: nzavs-flourishing
+      text: GitHub Repo
       href: https://github.com/usman-afzali/nzavs-flourishing
+    - icon: mailbox2
+      text: Email Research Team
+      href: mailto:usman.afzali@canterbury.ac.nz
+    - icon: twitter
+      text: Twitter Handle
+      href: https://twitter.com/
 ---
-
-By Usman Afzali, PhD
