@@ -2,3 +2,5 @@
 title: "Community Partners"
 author: "Usman Afzali"
 ---
+
+1. [The Federation of Islamic Associations of New Zealand (Inc.)](https://fianz.com)
