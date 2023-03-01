@@ -2,6 +2,9 @@
 title: "A National Longitudinal Study of Muslim Diversity and Flourishing"
 author: "Usman Afzali"
 date: "2023-01-23"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## The Flourishing Lab Team Members
@@ -9,77 +12,102 @@ date: "2023-01-23"
 ### Principal Investigator - Postdoctoral Research Fellow
 
 ::: {layout="[[70, 30], [100]]"}
-
-Hello/Salaam/Kia ora. I am Usman Afzali - a postdoctoral research fellow at University of Canterbury. I completed my PhD in psychology and am currently the principal investigator of the three-year Muslim Flourishing Project (started 2023), built on the [New Zealand Attitudes and Values Study](https://www.psych.auckland.ac.nz/en/about/new-zealand-attitudes-and-values-study.html) (NZAVS) framework.
-Beside research, I teach two courses, [Computational Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023) and [Intermediate Research Methods and Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022), in the School of Psychology at University of Canterbury. 
+Hello/Salaam/Kia ora. I am Usman Afzali - a postdoctoral research fellow
+at University of Canterbury. I completed my PhD in psychology and am
+currently the principal investigator of the three-year Muslim
+Flourishing Project (started 2023), built on the [New Zealand Attitudes
+and Values
+Study](https://www.psych.auckland.ac.nz/en/about/new-zealand-attitudes-and-values-study.html)
+(NZAVS) framework. Beside research, I teach two courses, [Computational
+Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023)
+and [Intermediate Research Methods and
+Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022),
+in the School of Psychology at University of Canterbury.
 
 ![Usman Afzali, PhD](U-16_Original.jpg)
 
-I am originally from Afghanistan and have been living in Christchurch since 2011. I have been a regular attendee of Al-Noor mosque and were close to many victims of Christchurch Terrorist Attacks. Since 2019, I have published several articles with NZAVS focusing on anti-Muslim attitudes in New Zealand. 
+I am originally from Afghanistan and have been living in Christchurch
+since 2011. I have been a regular attendee of Al-Noor mosque and were
+close to many victims of Christchurch Terrorist Attacks. Since 2019, I
+have published several articles with NZAVS focusing on anti-Muslim
+attitudes in New Zealand.
 
-My CV, publications, and further information can be found on my [website](https://www.usmanafzali.com).
+My CV, publications, and further information can be found on my
+[website](https://www.usmanafzali.com).
 
 #### Why I do this research?
 
-I noted that NZAVS did not have many Muslim participants - which limits the inferences we can make about how Muslims perceive themselves in New Zealand, what makes them resilient, and what makes them flourish despite atrocities. This is why the current project was conceived. Our aim is to collect longitudinal data from Muslims of New Zealand and publish our findings in peer-reviewed Open Science scientific journals^[Open Science articles can be accessed online by the any member of the public]. These outputs will provide an objective account of Muslims' social attitudes and values in New Zealand, and will allow Muslims to use these findings to advocate for their rights.
+I noted that NZAVS did not have many Muslim participants - which limits
+the inferences we can make about how Muslims perceive themselves in New
+Zealand, what makes them resilient, and what makes them flourish despite
+atrocities. This is why the current project was conceived. Our aim is to
+collect longitudinal data from Muslims of New Zealand and publish our
+findings in peer-reviewed Open Science scientific journals[^1]. These
+outputs will provide an objective account of Muslims' social attitudes
+and values in New Zealand, and will allow Muslims to use these findings
+to advocate for their rights.
 
-We are recruiting Muslim research assistants from the community - which will not only help us train a new cohort of Muslim researchers, but also help bring Muslims of New Zealand closer to science.
-
-
-
+We are recruiting Muslim research assistants from the community - which
+will not only help us train a new cohort of Muslim researchers, but also
+help bring Muslims of New Zealand closer to science.
 :::
 
+[^1]: Open Science articles can be accessed online by the any member of
+    the public
 
 ## The Project Co-leaders
 
-The co-leaders consist of senior academics and engaged community members from across New Zealand.
+The co-leaders consist of senior academics and engaged community members
+from across New Zealand.
 
 ::: {layout="[[70, 30], [100]]"}
-
 ### Professor Joesph Bulbulia
 
-Prof Bulbulia is a professor of psychology at Victoria University of Wellington, and one
-of four senior managers of the NZAVS. He developed the first NZAVS studies on anti-
-Muslim prejudice in 2015 (with postdoc Dr John Shaver) and works with government and
-Muslim communities to promote acceptance. He co-directs this project, mentors
-Dr Afzali, promotes international outreach, and co-authors publications.
+Prof Bulbulia is a professor of psychology at Victoria University of
+Wellington, and one of four senior managers of the NZAVS. He developed
+the first NZAVS studies on anti- Muslim prejudice in 2015 (with postdoc
+Dr John Shaver) and works with government and Muslim communities to
+promote acceptance. He co-directs this project, mentors Dr Afzali,
+promotes international outreach, and co-authors publications.
 
-![Prof Joseph Bulbulia](jb 2.jpg)
+![Prof Joseph Bulbulia](jb%202.jpg)
 :::
 
 ::: {layout="[[70, 30], [100]]"}
-
 ### Associate Professor Kumar Yogeeswaran
 
-A/Prof Yogeeswaran is an associate professor of psychology at University of Canterbury.
-A/Prof Kumar has been an active member of the NZAVS advisory board since 2014. He has
-published research using the NZAVS data, including several recent scientific
-articles relating to the terrorist attacks against the Muslim community. As a faculty
-member at the University of Canterbury, A/Prof Kumar will support and mentor the lead PI,
-Dr Afzali in the project.
+A/Prof Yogeeswaran is an associate professor of psychology at University
+of Canterbury. A/Prof Kumar has been an active member of the NZAVS
+advisory board since 2014. He has published research using the NZAVS
+data, including several recent scientific articles relating to the
+terrorist attacks against the Muslim community. As a faculty member at
+the University of Canterbury, A/Prof Kumar will support and mentor the
+lead PI, Dr Afzali in the project.
 
-![A/Prof Kumar Yogeeswaran](1499724752407_Kumar-Yogeeswaran-staff-portrait-low.jpg)
-
+![A/Prof Kumar
+Yogeeswaran](1499724752407_Kumar-Yogeeswaran-staff-portrait-low.jpg)
 :::
 
 ::: {layout="[[70, 30], [100]]"}
-
 ### Professor Chris Sibley
 
-Prof Chris Sibley is a professor of psychology at the University of Auckland, and NZAVS
-founder and lead manager. Prof Sibley is among the world's top researchers in longitudinal
-psychology. He manages the collected NZAVS Flourishing Study data at the basic level and will co-author
-publications.
-
+Prof Chris Sibley is a professor of psychology at the University of
+Auckland, and NZAVS founder and lead manager. Prof Sibley is among the
+world's top researchers in longitudinal psychology. He manages the
+collected NZAVS Flourishing Study data at the basic level and will
+co-author publications.
 
 ![Prof Chris Sibley](photo.png)
 :::
 
 ::: {layout="[[70, 30], [100]]"}
-
 #### Barriester Aarif Rasheed
 
-Barrister Aarif Abdul Rasheed is the head of the Muslim advocacy group, Just Community. He has been a close and valued NZAVS collaborator since 2016. Barrister Rasheed advises the team in this project and works with the Muslim community leadership and Research Assistants, particularly in Auckland and Wellington.
+Barrister Aarif Abdul Rasheed is the head of the Muslim advocacy group,
+Just Community. He has been a close and valued NZAVS collaborator since
+2016. Barrister Rasheed advises the team in this project and works with
+the Muslim community leadership and Research Assistants, particularly in
+Auckland and Wellington.
 
 ![Barrister Aarif Rasheed](1516526768320.jpeg)
 :::

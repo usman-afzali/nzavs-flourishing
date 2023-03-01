@@ -4,6 +4,14 @@ project:
 
 website:
   title: "Muslim Flourishing Study"
+  
+  page-footer:
+    left: |
+      <span class="container"><strong>Made with [Posit Quarto on RStudio](https://quarto.org/docs/get-started/hello/rstudio.html){target="_blank"}</strong></span>
+    right: |
+      <span class="container"><strong>[Project Github Repository](https://github.com/usman-afzali/nzavs-flourishing){target="_blank"}</strong></span>
+    background: "#d95e33"
+  
   navbar:
     pinned: true
     left:
