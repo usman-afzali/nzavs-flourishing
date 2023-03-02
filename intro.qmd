@@ -9,8 +9,7 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: false
+title-block-banner: true
 ---
 
 Kia ora and welcome to the Flourishing Lab!
@@ -33,7 +32,7 @@ A panel study follows the same individuals over time and is ideal for addressing
 
 This project will have the most importance to Muslims as explained above. Additionally, it will also be important to the public, and to understanding about Muslims living in the Western countries that share a similar way of life with New Zealand.
 
-This project will give us a scientific understanding of Muslim flourishing, thereby, a timely and under-researched connection of religion and flourishing will be explored. The data from this project could also be used by NZAVS researchers who publish on other aspects of life such as `health, politics, life satisfaction`, etc. This is substantial because due to minute participation of Muslims in the ongoing NZAVS research, we do not have meaningful understanding about these aspects of Muslims in New Zealand. With this project, we have established `The Flourishing Lab` at `University of Canterbury | Te Whare Wānanga o Waitaha` in  Ōtautahi | Christchurch, Aotearoa | New Zealand, that would attract further research and scholarship.
+This project will give us a scientific understanding of Muslim flourishing, thereby, a timely and under-researched connection of religion and flourishing will be explored. The data from this project could also be used by NZAVS researchers who publish on other aspects of life such as `health, politics, life satisfaction`, etc. This is substantial because due to minute participation of Muslims in the ongoing NZAVS research, we do not have meaningful understanding about these aspects of Muslims in New Zealand. With this project, we have established [The Flourishing Lab](https://usman-afzali.github.io/nzavs-flourishing/team.html) at `University of Canterbury | Te Whare Wānanga o Waitaha` in  Ōtautahi | Christchurch, Aotearoa | New Zealand, that would attract further research and scholarship.
 
 The target audience of this project are the Muslim community, academics, science readers, rights advocates, and policy makers. The outputs are a rich longitudinal dataset of 3660 observations, 6 public talks, a seminar for government officials, and six scientific publications.
 

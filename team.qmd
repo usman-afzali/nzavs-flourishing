@@ -1,12 +1,11 @@
 ---
 title: "A National Longitudinal Study of Muslim Diversity and Flourishing"
-author: "Usman Afzali"
-date: "2023-01-23"
+
 editor: 
   markdown: 
     wrap: 72
+title-block-banner: true    
 ---
-
 ## The Flourishing Lab Team Members
 
 ### Principal Investigator - Postdoctoral Research Fellow
@@ -15,41 +14,29 @@ editor:
 Hello/Salaam/Kia ora. I am Usman Afzali - a postdoctoral research fellow
 at University of Canterbury. I completed my PhD in psychology and am
 currently the principal investigator of the three-year Muslim
-Flourishing Project (started 2023), built on the [New Zealand Attitudes
-and Values
-Study](https://www.psych.auckland.ac.nz/en/about/new-zealand-attitudes-and-values-study.html)
-(NZAVS) framework. Beside research, I teach two courses, [Computational
-Contemplative-Neuroscience](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023)
-and [Intermediate Research Methods and
-Statistics](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022),
-in the School of Psychology at University of Canterbury.
+Flourishing Project (started 2023). Beside research, I also teach in the School of Psychology at University of Canterbury.
+I am originally from Afghanistan and have been living in Christchurch
+since 2011. In the past few years, I have published several articles with [New Zealand Attitudes and Values Study](https://www.psych.auckland.ac.nz/en/about/new-zealand-attitudes-and-values-study.html) (NZAVS) focusing on Muslim perception and attitudes towards Muslims in New Zealand.
+My [CV](https://www.usmanafzali.com/cv), [scientific publications](https://www.usmanafzali.com/publications), and further information can be found on my
+[website](https://www.usmanafzali.com).
 
 ![Usman Afzali, PhD](U-16_Original.jpg)
-
-I am originally from Afghanistan and have been living in Christchurch
-since 2011. I have been a regular attendee of Al-Noor mosque and were
-close to many victims of Christchurch Terrorist Attacks. Since 2019, I
-have published several articles with NZAVS focusing on anti-Muslim
-attitudes in New Zealand.
-
-My CV, publications, and further information can be found on my
-[website](https://www.usmanafzali.com).
 
 #### Why I do this research?
 
 I noted that NZAVS did not have many Muslim participants - which limits
 the inferences we can make about how Muslims perceive themselves in New
-Zealand, what makes them resilient, and what makes them flourish despite
-atrocities. This is why the current project was conceived. Our aim is to
+Zealand, what makes them resilient, what makes them flourish despite
+atrocities, and what factors contribute to meaning-making. This is why the current project was conceived. Our aim is to
 collect longitudinal data from Muslims of New Zealand and publish our
 findings in peer-reviewed Open Science scientific journals[^1]. These
 outputs will provide an objective account of Muslims' social attitudes
 and values in New Zealand, and will allow Muslims to use these findings
-to advocate for their rights.
+to advocate for their rights. In addition, such findings could be used to inform and influence government policy in relation to Muslim rights, and minority rights in general. Finally, our findings could also be used in other Muslim minority countries to spread awareness.
 
 We are recruiting Muslim research assistants from the community - which
-will not only help us train a new cohort of Muslim researchers, but also
-help bring Muslims of New Zealand closer to science.
+will not only help us train a new cohort of Muslim researchers who might lead further Muslim-focused research, but also
+help bring Muslims of New Zealand closer to science. This is what excites me, and this is why this project is so close to my heart.
 :::
 
 [^1]: Open Science articles can be accessed online by the any member of
@@ -79,8 +66,7 @@ promotes international outreach, and co-authors publications.
 A/Prof Yogeeswaran is an associate professor of psychology at University
 of Canterbury. A/Prof Kumar has been an active member of the NZAVS
 advisory board since 2014. He has published research using the NZAVS
-data, including several recent scientific articles relating to the
-terrorist attacks against the Muslim community. As a faculty member at
+data, including several recent scientific articles relating to perception of the Muslim community. As a faculty member at
 the University of Canterbury, A/Prof Kumar will support and mentor the
 lead PI, Dr Afzali in the project.
 

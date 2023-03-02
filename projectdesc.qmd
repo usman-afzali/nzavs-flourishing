@@ -6,6 +6,7 @@ editor:
   markdown: 
     wrap: 72
 bibliography: references.bib
+title-block-banner: true 
 ---
 
 ## The Project Description

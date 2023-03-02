@@ -1,4 +1,5 @@
 ---
 title: "Reports"
 author: "Usman Afzali"
+title-block-banner: true 
 ---
