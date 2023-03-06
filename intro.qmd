@@ -40,6 +40,10 @@ The target audience of this project are the Muslim community, academics, science
 
 This website is intended to provide introduction to the the Muslim Flourishing Study. Furthermore, findings, progress reports, publications, and data analysis code will be made available in a timely manner.
 
+### Privacy
+
+We take privacy extremely seriously. Since the beginning of NZAVS (14 years ago), we have put practices in place that ensure our participants' identities and personal information are kept strictly confidential. Please read further about our privacy [here](https://usman-afzali.github.io/nzavs-flourishing/projectdesc.html#privacy-and-retention).
+
 ### Got questions?
 
 Please contact Usman Afzali [usman.afzali@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz)
